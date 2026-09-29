@@ -13,6 +13,12 @@ A battle-tested, de-identified handbook on quality management — written by a p
 
 ---
 
+**这是公开存档，不是开源项目。** 这本 Playbook 是 Terence Gan（颜士尊）二十余年制造业品质管理方法论的完整公开存档，供投资人尽调、同行参考、引用。它不是求 star / fork 的开发者项目——0 star 不代表「没人要」，只代表「还没推广」。方法论可以分享，数据不会。
+
+**This is a public archive, not an open-source project.** A complete public record of Terence Gan's 20+ years of manufacturing quality methodology — for investor due diligence, peer reference, and citation. It is not a developer project seeking stars or forks; zero stars does not mean "no one wants it," only "not yet promoted." Methodology can be shared; data cannot.
+
+---
+
 ## 目录 / Contents
 
 | # | 中文 | English |
